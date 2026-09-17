@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rahil 👋
 
-<!--
-**rahil-cloud/rahil-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer
 
-Here are some ideas to get you started:
+I work with AWS, Docker, Kubernetes, Terraform,
+Jenkins and GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- AWS
+- Linux
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- Argo CD
+- Prometheus
+- Grafana
+
+## Projects
+
+- AI-Assisted DevOps Automation
+- E-commerce Application — SRE & Observability
+- FMCG Demand Forecasting & Inventory Optimization Platform
